@@ -8,7 +8,7 @@ public class App {
     public static void main(String[] args) throws MessagingException {
         String message="Hello everybody this is a test mail for security check!";
         String subject="Project";
-        String to="coolkrishna49@gmail.com";
+        String to="mrigraj.s@vvdntech.in";
         String from="wondersprogramming@gmail.com";
 
         sendMail(message, subject,to,from);
